@@ -15,7 +15,7 @@ body{
 }
 main{
     width: 80%;
-    margin: 6rem auto;
+    margin: 8rem auto;
     text-align: center;
 }
 .header-text{
@@ -27,7 +27,7 @@ main{
     display: block;
 }
 h2{
-    margin-top: 2rem;
+    margin-top: 2.5rem;
     font-weight: 200;
     font-size: inherit;
 }
@@ -63,7 +63,7 @@ h2{
     animation-timing-function: ease-out;
 }
 .grid{
-    margin-top: 6rem;
+    margin-top: 8rem;
     display: grid;
     justify-content: center;
     grid-template-columns: repeat(3, 25rem);
@@ -71,7 +71,7 @@ h2{
     gap: 2rem;
 }
 .grid-child{
-    padding: 2rem;
+    padding: 3rem;
     background-color: #fff;
     border-radius: .5rem;
     text-align: start;
@@ -81,7 +81,7 @@ h2{
     font-size: inherit;
 }
 .grid-child p{
-    font-size: 1rem;
+    font-size: 1.2rem;
     margin: 1rem 0 2rem;
 }
 .grid-child img{
